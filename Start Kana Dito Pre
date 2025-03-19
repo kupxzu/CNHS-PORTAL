@@ -10,7 +10,7 @@ npm create vue@latest
 step2
 No mo lang lahat to.. pero recommend ko pero optional naman sya gamit ka JSX Suport
 
-✔ Project name: … <your-project-name>
+✔ Project name: … <frontend-vue>
 ✔ Add TypeScript? … No / Yes
 ✔ Add JSX Support? … No / Yes
 ✔ Add Vue Router for Single Page Application development? … No / Yes
@@ -21,10 +21,11 @@ No mo lang lahat to.. pero recommend ko pero optional naman sya gamit ka JSX Sup
 ✔ Add Prettier for code formatting? … No / Yes
 ✔ Add Vue DevTools 7 extension for debugging? (experimental) … No / Yes
 
-Scaffolding project in ./<your-project-name>...
+Scaffolding project in ./<✔ Project name: … <frontend-vue>
+>...
 Done.
 
 step3
-cd <your-project-name>
+cd frontend-vue
 npm install
 npm run dev
